@@ -1,0 +1,45 @@
+{
+  "registerlist": [
+    {
+      "fname": "Praneshkumar",
+      "lname": "v",
+      "mobile": "8523697412",
+      "email": "masterpranesh12@gamil",
+      "password": "kakashiEMS",
+      "cpassword": "kakashiEMS",
+      "dob": "17/06/1995",
+      "address": "House No 1A, 1st Main Road, 4th Cross Swamy Vivekanandha layout, Muthanallur Cross, Dommasandra Post",
+      "pincode": "562125",
+      "state": "Karnataka",
+      "district": "Bangalore",
+      "id": "e6f8"
+    },
+    {
+      "fname": "Yuvan ",
+      "lname": "Shankar",
+      "mobile": "7418529630",
+      "email": "yuvanshankar@gmail.com",
+      "password": "yuvan24",
+      "cpassword": "yuvan24",
+      "dob": "17/02/2000",
+      "address": "Prestige Business Park, 33, Marathahalli - Sarjapur Outer Ring Rd, Bellandur, Bellandur Amanikere,  ",
+      "pincode": "560103",
+      "state": "Karnataka",
+      "district": "Bangalore ",
+      "id": "f584"
+    }
+  ],
+  "parentlist": [
+    {
+      "fathername": "Venkatasubramaniam",
+      "mothername": "Gomathi",
+      "mobile": "9095331484",
+      "adhar": "208365673362",
+      "religion": "Hindu",
+      "caste": "BC",
+      "occupation": "Auto-Loom",
+      "proof": "License",
+      "address": "DNO 607/13-1, Azhaghu Mariyamman Kovil Street, Namakkal Rd, Tiruchengode, Namakkal,637211"
+    }
+  ]
+}

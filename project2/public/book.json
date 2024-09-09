@@ -1,0 +1,14 @@
+[
+    {"bname":"HTML", "cost":"500"},
+    {"bname":"C", "cost":"800"},
+    {"bname":"C++", "cost":"1000"},
+    {"bname":"Python", "cost":"1200"},
+    {"bname":"Java", "cost":"1400"},
+    {"bname":"Javascript", "cost":"1800"},
+    {"bname":"PHP", "cost":"2000"},
+    {"bname":"My Sql", "cost":"2500"},
+    {"bname":"CSS", "cost":"3000"},
+    {"bname":"Bootstrap", "cost":"3500"},
+    {"bname":"Node Js", "cost":"4000"},
+    {"bname":"React", "cost":"5000"}
+]

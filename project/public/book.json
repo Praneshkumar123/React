@@ -1,0 +1,11 @@
+[
+    {"bname": "HTML5", "cost":"250"},
+    {"bname": "CSS 3", "cost":"300"},
+    {"bname": "Bootstrap", "cost":"350"},
+    {"bname": "Node JS", "cost":"400"},
+    {"bname": "PHP", "cost":"450"},
+    {"bname": "Mysql", "cost":"500"},
+    {"bname": "Java", "cost":"550"},
+    {"bname": "Python", "cost":"580"},
+    {"bname": "React", "cost":"600"}
+]

@@ -1,0 +1,52 @@
+
+COMPONENT IN REACT ?
+    => The Component in React is just like a function in javascript.
+        It return html code in the form of jsx. 
+        The Component is of 2 type 
+            1. Class Component - is based on class object concept. it is old not much use in market or industries
+            2. Functional Component - it is based on function (hooks)
+------------------------------------------------------------------------------------------------------------------
+    => JSX - javascript & xml 
+    => JSX = javascript + html + xml rules
+
+    JSX Element - All the predefined and user defined tags are called JSX Element in react 
+
+JSX Rules (how to write jsx)
+    1. if inside a Component more than 1 jsx Element are required then keep inside parent jsx element.
+        example
+            <section>
+                <h1> About us </h1>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh ghfg fg  </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh ghfg fg  </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh ghfg fg  </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh ghfg fg  </p>
+            </section>
+
+    2. The parent or child tag can be user defined also
+        example 
+            <abc>
+                <h1> About us </h1>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh g  g gh </p>
+            </abc>
+    
+    3. The parent or child tag can be empty <> </> also
+        example
+            <>
+                <h1> About us </h1>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh </p>
+                <p> gh  ghgf gh gh fgh g hg hf g gfg f gf gh fgf  gfgh f gf gf gh gh </p>
+            </>
+    4. The parent or child tag can be  [] also where , is required after every element and last not required 
+        example
+            [
+                <h1> About us </h1>,
+                <p> gh  ghgf gh gh fgh g hg hf g gfg   </p>,
+                <p> gh  ghgf gh gh fgh g hg hf g gfg   </p>,
+                <p> gh  ghgf gh gh fgh g hg hf g gfg   </p>,
+                <p> gh  ghgf gh gh fgh g hg hf g gfg   </p>
+            ]       
