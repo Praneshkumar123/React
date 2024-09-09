@@ -1,0 +1,74 @@
+{
+  "emplist": [
+    {
+      "id": "6127",
+      "fname": "Praneshkumar",
+      "salary": "45,000",
+      "dept": "TL"
+    },
+    {
+      "id": "ba3c",
+      "fname": "Yuvan Shankar",
+      "salary": "55,000",
+      "dept": "Assistant  Manager"
+    },
+    {
+      "fname": "Suhas",
+      "salary": "40,000",
+      "dept": "Sofware Developer",
+      "id": "4de7"
+    },
+    {
+      "fname": "Akash",
+      "salary": "30,000",
+      "dept": "AI  Developer",
+      "id": "7bc0"
+    },
+    {
+      "fname": "Varun",
+      "salary": "35,000",
+      "dept": "AI Engineering ",
+      "id": "5e40"
+    }
+  ],
+  "userlist": [
+    {
+      "uname": "Suhas",
+      "mobile": "8217705860",
+      "city": "Bangalore",
+      "id": "6121"
+    },
+    {
+      "id": "6229",
+      "uname": "Yuvan",
+      "mobile": "8072383570",
+      "city": "Madurai"
+    },
+    {
+      "uname": "Akash",
+      "mobile": "7531594620",
+      "city": "Kurchi",
+      "id": "bbe7"
+    },
+    {
+      "id": "9db6",
+      "uname": "Varun",
+      "mobile": "8529637410",
+      "city": "Karnataka"
+    }
+  ],
+  "productlist": [
+    {
+      "pname": "Rolls-Royce Ghost",
+      "cost": "8.74 Crs",
+      "qty": "5",
+      "id": "3852"
+    },
+    {
+      "pname": "Thar Roxx ",
+      "cost": "13.64 lkhs",
+      "qty": "15",
+      "id": "1765"
+    }
+  ]
+}
